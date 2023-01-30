@@ -61,9 +61,27 @@ tr:nth-child(odd) {
 }
 h3 {
     color: grey;
+    margin-bottom: 10px;
 }
 
-.img {
-    margin-top: 10px;
-    float: left;
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
 }
+.testo-sopra {
+    font-size: 22px;
+    color: white;
+    position: absolute;
+    top: 15px;
+    left: 40px;
+}
+.centrato {
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 230px;
+    left: 20px;
+
+    }
