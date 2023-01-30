@@ -14,3 +14,16 @@ header {
 #boolean {
     margin-top: 30px;
 }
+
+.paragrafo {
+    line-height: 10%;
+}
+
+article {
+    margin-top: 30px;
+}
+
+thead th {
+    background-color: #33C6FF;
+    color: white;
+}
