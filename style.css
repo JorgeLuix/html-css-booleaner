@@ -32,8 +32,10 @@ th td {
     padding: 20 px;
 }
 
-thead {
+thead th {
     background-color: #33C6FF;
     color: white;
 }
-tbody td
+tr:nth-child(odd) {
+    background-color: #A5DEF5
+}
