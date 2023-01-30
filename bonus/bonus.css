@@ -1,6 +1,10 @@
 * {
     margin: 0;
 }
+
+.container {
+    margin: 0 center;
+}
 header {
     background-color: #077CE3;
     background-image: url(./img/pattern.png);
