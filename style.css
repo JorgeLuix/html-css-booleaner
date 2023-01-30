@@ -1,8 +1,15 @@
+* {
+    margin: 0;
+}
 header {
-    background-color: #336BFF;
+    background-color: #077CE3;
     background-image: url(./img/pattern.png);
-    background-size: 20%;
+    background-size: 23%;
    
+}
+
+main {
+    margin: 10px;
 }
 .logo {
     
@@ -16,20 +23,23 @@ header {
 }
 
 .paragrafo {
-    line-height: 10%;
+    margin-top: 10px;
+    line-height: 90%;
 }
 
 article {
     margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 table {
+    margin-top: 15px;
     text-align: left;
-    width: 100%;
+    width: 120%;
 }
 
 th td {
-    padding: 20 px;
+    padding: 90px;
 }
 
 thead th {
