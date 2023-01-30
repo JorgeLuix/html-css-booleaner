@@ -56,3 +56,11 @@ thead th {
 tr:nth-child(odd) {
     background-color: #A5DEF5
 }
+h3 {
+    color: grey;
+}
+
+.img {
+    margin-top: 10px;
+    float: left;
+}
