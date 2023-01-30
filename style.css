@@ -1,5 +1,16 @@
-.logo {
-    background-color: #33D1FF;
+header {
+    background-color: #336BFF;
     background-image: url(./img/pattern.png);
-    width: 10%;
+    background-size: 20%;
+   
+}
+.logo {
+    
+    display: flex;
+    height: 80px;
+    padding: 20px;
+}
+
+#boolean {
+    margin-top: 30px;
 }
